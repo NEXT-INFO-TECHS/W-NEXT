@@ -147,7 +147,7 @@
 		autoplay: true,
 		smartSpeed: 1500,
 		autoplayHoverPause: true,
-		center: true,
+		center: false,
 		responsive:{
 			0:{
 				items:1,
@@ -162,7 +162,7 @@
 				items:3,
 			},
 			1200:{
-				items:3,
+				items:4,
 			}
 		}
 	});
