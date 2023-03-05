@@ -395,7 +395,6 @@
 
 	// Testimonials Slider JS
 	$('.testimonials-slider').owlCarousel({
-		items:1,
 		loop: true,
 		margin: 30,
 		nav: true,
