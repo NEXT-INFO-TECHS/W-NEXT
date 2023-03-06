@@ -760,7 +760,7 @@ Banner Area Style
 }
 
 .banner-area.banner-area-three {
-    background-image: url(../video/background.gif);
+/*    background-image: url(../video/background.gif);*/
     height: 850px;
     padding: 0;
     position: relative;
@@ -769,7 +769,7 @@ Banner Area Style
 
 .banner-area.banner-area-three .banner-text {
     text-align: center;
-    margin: -15% auto 0;
+    margin: -80% auto 0;
 }
 
 .banner-area.banner-area-three .banner-shape-1 {
