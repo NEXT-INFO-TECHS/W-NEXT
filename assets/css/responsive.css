@@ -51,8 +51,7 @@
     line-height: 1.4;
   }
   .banner-area .banner-text h1 {
-    font-size: 35px;
-    margin-bottom: 20px;
+    font-size: 22px;
   }
   .banner-area .banner-text p {
     margin-bottom: 25px;
@@ -293,7 +292,7 @@
   }
   .banner-area.banner-area-three {
     height: 100%;
-    padding-top: 145px;
+    padding-top: 200px;
     padding-bottom: 50px;
   }
   .banner-area.banner-area-three .follow-us {
